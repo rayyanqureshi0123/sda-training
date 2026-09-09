@@ -1,5 +1,4 @@
-# Day 1 Setup
-
+# Day 1: SDLC & GitHub Mastery
 ## Learning Objectives
 
 - Understand SDLC and Agile methodology
