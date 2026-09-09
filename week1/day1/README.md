@@ -1,5 +1,4 @@
- # Day 1: SDLC & GitHub Mastery
-
+# Day 1 Documentation
 ## Learning Objectives
 
 - Understand SDLC and Agile methodology
